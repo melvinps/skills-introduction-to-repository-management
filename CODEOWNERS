@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @melvinps
+/src/backend/database.py      @melvinps
+/src/backend/routers/auth.py  @melvinps
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @melvinps
